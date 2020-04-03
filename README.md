@@ -18,6 +18,6 @@ but  :   abc +v is not accepted
 
 
 the expression can have :
-a--b
-a+-b
+a--b  or
+a+-b   or
 a*-b
