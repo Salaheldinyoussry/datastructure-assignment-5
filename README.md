@@ -17,7 +17,7 @@ x1 + x2 *x3
 but  :   abc +v is not accepted
 
 
-the expression can have :
+the expression can be like the following :
 a--b  or
 a+-b   or
 a*-b
